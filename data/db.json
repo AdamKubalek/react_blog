@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "datetime": "2020-01-01",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius",
+      "apiId": "api"
+    },
+    {
+      "id": 2,
+      "title": "My second edit",
+      "datetime": "January 30, 2023 6:58:10 PM",
+      "body": "Ahoj jak se mas"
+    },
+    {
+      "id": 5,
+      "title": "Adam",
+      "datetime": "January 30, 2023 5:40:30 PM",
+      "body": "Adam lorem neco",
+      "apiId": "api"
+    }
+  ]
+}
