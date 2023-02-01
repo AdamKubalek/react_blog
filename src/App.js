@@ -13,7 +13,7 @@ import { DataProvider } from "./context/DataContext";
 const App = () => {
   return (
     <div className="App">
-      <Header title="React JS blog" />
+      <Header title="My Blog" />
       <DataProvider>
         <Nav />
         <Routes>
