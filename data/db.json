@@ -8,17 +8,10 @@
       "apiId": "api"
     },
     {
-      "id": 2,
-      "title": "My second edit",
-      "datetime": "January 30, 2023 6:58:10 PM",
-      "body": "Ahoj jak se mas"
-    },
-    {
       "id": 5,
-      "title": "Adam",
-      "datetime": "January 30, 2023 5:40:30 PM",
-      "body": "Adam lorem neco",
-      "apiId": "api"
+      "title": "Adama",
+      "datetime": "February 01, 2023 5:42:50 AM",
+      "body": "Adam lorem neco"
     }
   ]
 }

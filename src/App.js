@@ -13,8 +13,8 @@ import { DataProvider } from "./context/DataContext";
 const App = () => {
   return (
     <div className="App">
+      <Header title="React JS blog" />
       <DataProvider>
-        <Header title="React JS blog" />
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -24,10 +24,10 @@ const App = () => {
           <Route path="about" element={<About />} />
           <Route path="*" element={<Missing />} />
         </Routes>
-        <Footer />
       </DataProvider>
+      <Footer />
     </div>
   );
-}
+};
 
 export default App;
